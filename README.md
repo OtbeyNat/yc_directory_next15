@@ -48,6 +48,7 @@ https://www.sanity.io/manage/personal/projects
 https://www.sanity.io/docs/groq
 https://nextjs.org/docs/app/building-your-application/rendering/partial-prerendering
 https://react.dev/reference/react/useActionState 
+https://nextjs.org/docs/app/building-your-application/data-fetching/fetching#parallel-and-sequential-data-fetching
 
 `npx sanity@latest schema extract --path=./sanity/extract.json`
 `npx sanity@latest typegen generate`
